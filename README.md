@@ -5,7 +5,8 @@ Currently majoring in the dark arts of computers—juggling frontend, backend, a
 Currently majoring in the dark arts of computers—juggling frontend, backend, and the occasional existential crisis. Fueled by coffee and stubbornness. Currently conjuring up real-world solutions with code, one bug (battle) at a time.
 
 ## 🧩 LeetCode Activity:
-![LeetCode Stats](https://leetcard.jacoblin.cool/rajatsinghten?theme=dark&font=Roboto&ext=activity)
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/rajatsinghten?theme=dark&ext=heatmap)
+
 
 
 ## 🌐 Socials:
