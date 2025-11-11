@@ -1,6 +1,12 @@
 # 💫 About Me:
 Currently majoring in the dark arts of computers—juggling frontend, backend, and the occasional existential crisis. Fueled by coffee and stubbornness. Currently conjuring up real-world solutions with code, one bug (battle) at a time.
 
+# 💫 About Me:
+Currently majoring in the dark arts of computers—juggling frontend, backend, and the occasional existential crisis. Fueled by coffee and stubbornness. Currently conjuring up real-world solutions with code, one bug (battle) at a time.
+
+## 🧩 LeetCode Activity:
+![LeetCode Stats](https://leetcard.jacoblin.cool/rajatsinghten?theme=dark&font=Roboto&ext=activity)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajatsinghten) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajatsinghten@gmail.com) 
