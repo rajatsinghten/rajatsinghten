@@ -30,9 +30,6 @@ Currently majoring in the dark arts of computers — juggling frontend, backend,
 ---
 
 ### GitHub Activity
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajatsinghten&theme=github_dark" alt="GitHub Summary" width="80%"/>
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajatsinghten&theme=github_dark" width="32%"/>
